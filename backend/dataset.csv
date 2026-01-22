@@ -1,0 +1,9 @@
+log,root_cause,category
+"Database connection timeout error","Database server overloaded","Database"
+"User authentication failed due to invalid token","Token expired","Auth"
+"Memory usage exceeded threshold","Memory leak in service","Memory"
+"Network request failed","Network latency issue","Network"
+"Disk read error on server","Disk failure","Hardware"
+"Service crashed due to null pointer exception","Application bug","Application"
+"API returned 500 error","Backend service failure","Application"
+"Login failed multiple times","Incorrect credentials","Auth"
